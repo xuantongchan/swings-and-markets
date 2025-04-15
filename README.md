@@ -1,7 +1,7 @@
-# mood-swings-and-markets
+# swings-and-markets
 Attempted to plot NVIDIA’s 2023 stock trend while plotting my escape from manufacturing life
 
-## what did I do?
+## What did I do?
 A mini analysis project built in **DataLab**, using simulated stock data to:
 - Practice **Python + SQL integration**
 - Visualize **monthly price movements**
@@ -14,4 +14,4 @@ A mini analysis project built in **DataLab**, using simulated stock data to:
 | `README.md` | You're here.|
 
 ## Mocked Output
-> The biggest mood swing (other than myself)? A +$19 jump in Aug (we love) c:
+> A +$19 jump in Aug (we love) c:
