@@ -11,7 +11,4 @@ A mini analysis project built in **DataLab**, using simulated stock data to:
 |------|---------|
 | `NVDA_2023_stock_data.csv` | Simulated daily price data (mocked for offline use) |
 | `nvda_stock_analysis.ipynb` | Main notebook: load data, store to SQL, analyze & visualize |
-| `README.md` | You're here.|
-
-## Mocked Output
-> A +$19 jump in Aug (we love) c:
+| `README.md` | You're here!|
