@@ -9,11 +9,11 @@ A quick 1–2 hr project built in **DataLab**, using simulated NVDA stock data t
 - Analyze **monthly price trends** from July to December 2023
 
 ## 🍱 What You'll Find Inside
-| File                        | Purpose                                                                 |
-|----------------------------|-------------------------------------------------------------------------|
-| `NVDA_2023_stock_data.csv` | Simulated daily stock price data (mocked for offline use)              |
-| `nvda_stock_analysis.ipynb`| Main notebook: load data, store to SQL, analyze & visualize            |
-| `README.md`                | You’re here!                                                            |
+| File | Purpose |
+|------|---------|
+| `NVDA_2023_stock_data.csv` | Simulated daily stock price data (mocked for offline use) |
+| `nvda_stock_analysis.ipynb`| Main notebook: load data, store to SQL, analyze & visualize |
+| `README.md` | You’re here! |
 
 ## 🚀 What I Practised
 - `pandas` for data manipulation  
